@@ -166,7 +166,7 @@ const numUnfundedGames = GAMES_JSON.filter((game) =>{
 
 // create a string that explains the number of unfunded games using the ternary operator
 const displayStr = `
-    A total of ${amountRaised.toLocaleString('en-US')} has been raised for ${num_games}. 
+    A total of $${amountRaised.toLocaleString('en-US')} has been raised for ${num_games} games. 
     ${numUnfundedGames > 0 ? `Currently, ${numUnfundedGames} games remain unfunded. We need your help to fund these amazing games!`: "No games remain unfunded!"}
 `;
 
