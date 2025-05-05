@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: Bhagyesh Jethwani <br>
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.<br>
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -17,28 +17,20 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Added feature where if game card is clicked, an image of the game is loaded in a new tab.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+https://www.loom.com/share/17e17dae30d343a58fa29e0badb4d0d1?sid=198a593a-bfc8-437b-a8ba-fa9db9d99c95
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had a challenge understanding how the reduce and filter functions work, and had to watch some videos and read additional documentation on them.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Bhagyesh Jethwani]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
