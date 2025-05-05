@@ -22,8 +22,13 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/17e17dae30d343a58fa29e0badb4d0d1?sid=5f2b20f2-a7a5-48d8-b23d-15c2d07fe51b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/17e17dae30d343a58fa29e0badb4d0d1">
+    </a>
+    <a href="https://www.loom.com/share/17e17dae30d343a58fa29e0badb4d0d1">
+        <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/17e17dae30d343a58fa29e0badb4d0d1-full-play.gif">
+    </a>
+</div>
 
 ## Notes
 
