@@ -55,8 +55,6 @@ function addGamesToPage(games) {
 
         // append the game to the games-container
         gamesContainer.append(div_element);
-
-        
     }
 }
 
