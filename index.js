@@ -29,7 +29,7 @@ const gamesContainer = document.getElementById("games-container");
 function addGamesToPage(games) {
 
     // loop over each item in the data
-    for(var i = 0; i < games.length; i++)
+    for(let i = 0; i < games.length; i++)
     {
 
         // create a new div element, which will become the game card
@@ -48,8 +48,15 @@ function addGamesToPage(games) {
         <h3> Money Pledged: ${games[i]["pledged"]}</h3>
         `;
 
+        // Add event listener to game card to open img in new browser on click
+        div_element.addEventListener("click", () =>{
+            window.open(games[i]["img"], "_blank");
+        });
+
         // append the game to the games-container
         gamesContainer.append(div_element);
+
+        
     }
 }
 
